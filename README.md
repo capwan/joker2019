@@ -6,4 +6,4 @@ Joker (2019) movie's website
 ## Instruction
 Just open `index.html`.
 
-**[Live Demo](https://capwan.github.io/Password-Generator/)**
+**[Live Demo](https://capwan.github.io/joker2019/)**
